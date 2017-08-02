@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Kharl\\AndroidStudioProjects\\AndroidRemote1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\left_arrow.jpg",
+        "source": "C:\\Users\\Kharl\\AndroidStudioProjects\\AndroidRemote1\\app\\src\\main\\res\\drawable-mdpi\\left_arrow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kharl\\AndroidStudioProjects\\AndroidRemote1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\back_arrow_2.jpg",
+        "source": "C:\\Users\\Kharl\\AndroidStudioProjects\\AndroidRemote1\\app\\src\\main\\res\\drawable-mdpi\\back_arrow_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kharl\\AndroidStudioProjects\\AndroidRemote1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\forward_arrow.jpg",
+        "source": "C:\\Users\\Kharl\\AndroidStudioProjects\\AndroidRemote1\\app\\src\\main\\res\\drawable-mdpi\\forward_arrow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kharl\\AndroidStudioProjects\\AndroidRemote1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\right_arrow.jpg",
+        "source": "C:\\Users\\Kharl\\AndroidStudioProjects\\AndroidRemote1\\app\\src\\main\\res\\drawable-mdpi\\right_arrow.jpg"
+    }
+]

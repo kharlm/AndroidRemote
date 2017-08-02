@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  android:orientation="vertical"
+			  android:layout_width="fill_parent"
+			  android:layout_height="fill_parent"
+			  android:keepScreenOn="true"
+			  android:weightSum="1">
+    <!-- this will prevent the smartphone screen to turn off and the app to go on pause -->
+    <!-- opening another app will kill the connection, though -->
+>
+
+	<Switch
+        android:text="Autonomous Mode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/auto"
+        android:layout_below="@+id/webView"
+        android:layout_alignParentLeft="true"/>
+
+	<LinearLayout
+		android:layout_height="60dp"
+		android:layout_width="wrap_content"
+		android:orientation="horizontal"
+		android:layout_weight="0.31">
+        <Button
+            android:text="Connection"
+            android:id="@+id/connect"
+            android:textSize="14dp"
+            android:layout_width="wrap_content"
+            android:layout_height="33dp"
+            android:layout_gravity="center_horizontal">
+        </Button>
+
+		<Button
+            android:text="Disconnect"
+            android:id="@+id/deconnect"
+            android:textSize="14dp"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_gravity="center_horizontal">
+        </Button>
+
+		<TextView
+            android:text=""
+            android:id="@+id/logview"
+            android:textSize="14dp"
+            android:bufferType="editable"
+            android:layout_width="191dp"
+            android:layout_height="39dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="32dp"
+            >
+        </TextView>
+
+	</LinearLayout>
+
+	<RelativeLayout
+		android:layout_width="633dp"
+		android:layout_height="196dp"
+		android:layout_weight="0.71">
+
+
+
+
+		<WebView
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:id="@+id/webView"
+			android:layout_alignParentBottom="true"
+			android:layout_toLeftOf="@+id/joystickView"/>
+
+		<ImageView
+			android:id="@+id/back_arrow"
+			android:src="@drawable/back_arrow"
+			android:layout_height="wrap_content"
+
+			android:layout_width="wrap_content"
+			android:layout_marginTop="163dp"
+			android:layout_marginRight="42dp"
+			android:layout_alignParentTop="true"
+			android:layout_alignRight="@+id/joystickView"/>
+
+		<com.example.androidremote.JoystickView
+			android:id="@+id/joystickView"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginRight="48dp"
+			android:layout_marginBottom="29dp"
+			android:layout_alignParentBottom="true"
+			android:layout_alignParentRight="true"/>
+
+
+	</RelativeLayout>
+
+
+</LinearLayout>

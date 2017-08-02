@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Kharl\\AndroidStudioProjects\\AndroidRemote1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stop.png",
+        "source": "C:\\Users\\Kharl\\AndroidStudioProjects\\AndroidRemote1\\app\\src\\main\\res\\drawable-mdpi\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\Kharl\\AndroidStudioProjects\\AndroidRemote1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Kharl\\AndroidStudioProjects\\AndroidRemote1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kharl\\AndroidStudioProjects\\AndroidRemote1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back_arrow.png",
+        "source": "C:\\Users\\Kharl\\AndroidStudioProjects\\AndroidRemote1\\app\\src\\main\\res\\drawable-mdpi\\back_arrow.png"
+    }
+]

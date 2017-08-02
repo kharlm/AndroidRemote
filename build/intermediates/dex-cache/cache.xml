@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kharl\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Kharl\AndroidStudioProjects\AndroidRemote1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_26dc3aa0e22bbe7c3d105d4a613fdfe5e4f5c123.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kharl\AndroidStudioProjects\AndroidRemote1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b3f1832253be6003cab059eb3db068a1eab2bdf8">
+        <dex dex="C:\Users\Kharl\AndroidStudioProjects\AndroidRemote1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3bebc8a2ee853f255c274ae34d321c39cdd7ac3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kharl\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Kharl\AndroidStudioProjects\AndroidRemote1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_26dc3aa0e22bbe7c3d105d4a613fdfe5e4f5c123\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kharl\AndroidStudioProjects\AndroidRemote1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="193b13945208ef45b4b62e3160701493eb62becc">
+        <dex dex="C:\Users\Kharl\AndroidStudioProjects\AndroidRemote1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f70c8b10391520431d6a34a061ac1653e602ab22\classes.dex" />
+    </item>
+
+</items>
